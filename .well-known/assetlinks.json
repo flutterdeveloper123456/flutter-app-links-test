@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.example.app_deep_link_project",
       "sha256_cert_fingerprints": [
-        "AA:BB:CC:DD:EE:..."  // Your keystore SHA-256 fingerprint
+        "9F:C3:46:68:03:71:80:07:F6:3F:A4:CE:25:9F:7F:E7:41:A4:BA:44:2A:91:6D:F8:08:C4:53:1C:D7:5B:8C:0D",
+        "60:6E:1B:C0:EC:D6:63:96:58:B6:E4:D9:10:8F:FD:D8:83:71:30:6E:29:0F:85:FA:44:9D:D4:CA:77:56:AB:B3"
       ]
     }
   }
